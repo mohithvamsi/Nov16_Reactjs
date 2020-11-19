@@ -32,9 +32,9 @@ it is a web development programme in reactjs
 
 | Name | Roll Number | Email |
 |------|------------ |-------|
-| Kalyan | 123 | kalyan@gmail.com |
-| Gayatri | 321 | gayatri@gmail.com |
-| swami | 231 | swami@gmail.com |
+| mohith | 123 | mohithvamsimanne23@gmail.com |
+| Haripriya| 321 | haripriyamanne4gmail.com |
+| vamsi | 231 | mohithvamsi2002@gmail.com |
 
 # Link
 [google](https://www.google.com/)
