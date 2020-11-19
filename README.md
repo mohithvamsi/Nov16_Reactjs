@@ -33,7 +33,7 @@ it is a web development programme in reactjs
 | Name | Roll Number | Email |
 |------|------------ |-------|
 | mohith | 123 | mohithvamsimanne23@gmail.com |
-| Haripriya| 321 | haripriyamanne4gmail.com |
+| Haripriya| 321 | haripriyamanne4@gmail.com |
 | vamsi | 231 | mohithvamsi2002@gmail.com |
 
 # Link
